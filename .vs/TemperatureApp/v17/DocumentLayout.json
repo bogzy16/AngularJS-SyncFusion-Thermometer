@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\app\\thermometer\\thermometer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\app\\thermometer\\thermometer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\app\\thermometer\\thermometer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\app\\thermometer\\thermometer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\controllers\\thermometercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\controllers\\thermometercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\temperatureapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\temperatureapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.server\\model\\thermometerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B10BDCC-D523-4733-A1C4-7D181B39E409}|TemperatureApp.Server\\TemperatureApp.Server.csproj|solutionrelative:temperatureapp.server\\model\\thermometerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|c:\\users\\ebarroga\\documents\\temperatureapp\\temperatureapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF28C3AC-E2A1-4A8A-99EB-A953E6A04E3A}|temperatureapp.client\\temperatureapp.client.esproj|solutionrelative:temperatureapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thermometer.component.css",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.css",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.css",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.css",
+              "RelativeToolTip": "temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-07T00:18:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\styles.css",
+              "RelativeToolTip": "temperatureapp.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T23:33:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThermometerController.cs",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Controllers\\ThermometerController.cs",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\Controllers\\ThermometerController.cs",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Controllers\\ThermometerController.cs",
+              "RelativeToolTip": "TemperatureApp.Server\\Controllers\\ThermometerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:28:28.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Program.cs",
+              "RelativeToolTip": "TemperatureApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:52:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thermometer.component.html",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.html",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.html",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.html",
+              "RelativeToolTip": "temperatureapp.client\\src\\app\\Thermometer\\thermometer.component.html",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-06T03:08:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "TemperatureApp.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:52:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\appsettings.json",
+              "RelativeToolTip": "TemperatureApp.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T04:28:31.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "temperatureapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-06T03:06:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TemperatureApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:49:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemperatureApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\TemperatureApp.Server.http",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\TemperatureApp.Server.http",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\TemperatureApp.Server.http",
+              "RelativeToolTip": "TemperatureApp.Server\\TemperatureApp.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-06T05:18:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThermometerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Model\\ThermometerResponse.cs",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\Model\\ThermometerResponse.cs",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Model\\ThermometerResponse.cs",
+              "RelativeToolTip": "TemperatureApp.Server\\Model\\ThermometerResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:29:52.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "temperatureapp.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T04:49:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TemperatureApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\TemperatureApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TemperatureApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T05:04:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "temperatureapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ebarroga\\Documents\\TemperatureApp\\temperatureapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "temperatureapp.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-06T03:07:55.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

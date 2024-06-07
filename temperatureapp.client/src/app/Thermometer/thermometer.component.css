@@ -1,0 +1,21 @@
+.content-controls {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+  .content-controls div {
+    display: table-cell;
+  }
+
+.content-controls-left {
+  width: 50px;
+}
+
+.content-controls-right {
+  width: 35px;
+}
+
+.content-controls-middle {
+  text-align: center;
+}

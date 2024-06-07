@@ -1,0 +1,1 @@
+C:\Users\ebarroga\Documents\TemperatureApp\temperatureapp.client\obj\Debug\temperatureapp.client.esproj.CoreCompileInputs.cache

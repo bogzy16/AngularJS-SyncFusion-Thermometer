@@ -1,0 +1,72 @@
+
+<div style="margin: 50px;display: flex;flex-direction: row;justify-content: center;">
+  <div tabindex="0" class="e-card" style="width:400px">
+    <div class="e-card-stacked">
+      <div class="e-card-header">
+        <div class="e-card-header-caption">
+          <div class="e-card-header-title">Celsius Temperature</div>
+        </div>
+      </div>
+      <div class="e-card-content">
+        <ejs-numerictextbox [(value)]="tempCelsius" min='-30' max='200' (keyup.enter)="getFarenheight(tempCelsius)"></ejs-numerictextbox>
+      </div>
+    </div>
+  </div>
+
+  <div tabindex="1" class="e-card" style="width:400px">
+    <div class="e-card-stacked">
+      <div class="e-card-header">
+      </div>
+      <div class="e-card-content">
+        <ejs-lineargauge id="gauge-container" style='display:block;' [container]='container' (dragEnd)='dragEnd($event)' height='600px'>
+          <e-axes>
+            <e-axis minimum=-30 maximum=200 [labelStyle]='celciusLabel' [majorTicks]='major' [minorTicks]='minor'>
+              <e-pointers>
+                <e-pointer markerType="Text"></e-pointer>
+              </e-pointers>
+            </e-axis>
+            <e-axis minimum=-20 maximum=400 opposedPosition=true [labelStyle]='farenheightLabel' [majorTicks]='farenheightmajor' [minorTicks]='farenheightminor'>
+              <e-pointers>
+                <e-pointer value={{tempfarenheight}} [enableDrag]=true></e-pointer>
+              </e-pointers>
+            </e-axis>
+          </e-axes>
+        </ejs-lineargauge>
+      </div>
+    </div>
+  </div>
+
+  <div tabindex="0" class="e-card" style="width:400px">
+    <div class="e-card-stacked">
+      <div class="e-card-header">
+        <div class="e-card-header-caption">
+          <div class="e-card-header-title">Farenheight Temperature</div>
+        </div>
+      </div>
+      <div class="e-card-content">
+        <ejs-numerictextbox [(value)]="tempfarenheight" min='-20' max='400' (keyup.enter)="getCelsius(tempfarenheight)"></ejs-numerictextbox>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div tabindex="0" class="e-card" id="basic">
+  <div class="e-card-header">
+    <div class="e-card-header-caption">
+      <div class="e-card-title">About this application.</div>
+    </div>
+  </div>
+  <div class="e-card-content">
+    <p>
+      This application is created using Angular 16 and Syncfusion library for the Client side.
+      NET Core API for the back end side.
+    </p>
+
+    <p>
+      In order to use the application user can enter numeric values on the numeric textbox or drag the pointer on the tempearature. This will automatically convert.
+    </p>
+    
+    <i style="color: red;">Pleast note that minimum for Celsius is -30 and maximum value is 200. While for the Farenheight minimum is -20 and maximum is 400</i>
+  </div>
+</div>
